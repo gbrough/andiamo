@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gbrough.github.io/andiamo/sitemap.xml

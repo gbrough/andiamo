@@ -1,0 +1,15 @@
+# Andiamo
+
+> Free events near you, in person and online.
+
+All events are free to attend.
+
+## Upcoming events
+
+
+
+## Machine-readable data
+
+- [JSON](https://gbrough.github.io/andiamo/events.json)
+- [iCal](https://gbrough.github.io/andiamo/events.ics)
+- [RSS](https://gbrough.github.io/andiamo/feed.xml)
